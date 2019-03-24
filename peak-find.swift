@@ -1,6 +1,6 @@
 func peakIndexInMountainArray(_ A: [Int]) -> Int {
 
-    return A.firstIndex(of: A.max()!)!
+    return A.index(of: A.max()!)!
 
     }
 
