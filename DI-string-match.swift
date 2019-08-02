@@ -1,4 +1,4 @@
-func diStringMatch(_ S: String) -> [Int] {
+/*func diStringMatch(_ S: String) -> [Int] {
         let numbers = Array(0...S.count)
         var result = [Int]()
         var L = 0
@@ -39,3 +39,8 @@ func diStringMatch(_ S: String) -> [Int] {
     }
 
 print(diStringMatch("DDI"))
+*/
+
+/*
+
+*/
